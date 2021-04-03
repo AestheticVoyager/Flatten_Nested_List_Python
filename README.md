@@ -1,2 +1,3 @@
-# Flatten_Nested_List_Python
-Simple trick for when you require Flat version of a nested list in Python.
+# Flatten Nested Lists in Python
+
+Simple trick to take advantage of whenever you require flat version of a nested list, but also keep the nested list unchanged.
